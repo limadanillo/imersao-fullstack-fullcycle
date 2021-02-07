@@ -3,9 +3,9 @@ package model
 import (
 	"testing"
 
+	"github.com/limadanillo/imersao-fullstack-fullcycle/domain/model"
 	uuid "github.com/satori/go.uuid"
 
-	"github.com/limadanillo/imersao-fullstack-fullcycle/domain/model"
 	"github.com/stretchr/testify/require"
 )
 
