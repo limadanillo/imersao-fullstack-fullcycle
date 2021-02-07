@@ -1,4 +1,4 @@
-module github.com/limadanillo/imersao/codepix-go
+module github.com/limadanillo/imersao-fullstack-fullcycle
 
 go 1.15
 
